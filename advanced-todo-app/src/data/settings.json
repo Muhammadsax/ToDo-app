@@ -1,0 +1,14 @@
+{
+  "user_settings": {
+    "language": "ar",
+    "theme": "light",
+    "auto_backup": true,
+    "backup_interval_hours": 24,
+    "notifications": true,
+    "reminder_before_minutes": 15
+  },
+  "app_settings": {
+    "version": "1.0",
+    "first_run": true
+  }
+}
